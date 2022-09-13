@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "plot(Titanic)"
+  },
+  {
+    "objectID": "assign01.html",
+    "href": "assign01.html",
+    "title": "assignment1",
+    "section": "",
+    "text": "Fall leaf"
+  },
+  {
+    "objectID": "assign02.html",
+    "href": "assign02.html",
+    "title": "assignment2",
+    "section": "",
+    "text": "Paul Murrell charts"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Karl Ho",
+    "section": "",
+    "text": "Data stories are posted here.\n\\(y=\\alpha+\\beta{x}^2\\)\n\npar(family=\"sans\")\nplot(iris, pch=5, cex=.55, col=\"forestgreen\")"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Asian democracies\nElections in Taiwan\nPolitical economy in East Asia"
+  }
+]
